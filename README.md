@@ -11,7 +11,7 @@ In this project No Backend is used to embed Power BI report to Angular client.
 ### To Run This Application
 * _Run_ npm i
 * Replace properties with *<>* tag in _pbi-api.service.ts_ & _proxy.conf.json_
-* Local SSL added to this application & configured too. so run _npm start_
+* Local SSL added to this application & configured too. so run _npm run start_
 * This application also have docker configuration file named _DockerFile_ & _nginx.conf_ . If you want you can deploy it as docker container.
 
 ### Template
