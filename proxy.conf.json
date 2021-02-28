@@ -1,0 +1,7 @@
+{
+  "/<tenantid>/*": {
+    "target": "https://login.microsoftonline.com",
+    "secure": true,
+    "changeOrigin": true
+  }
+}
