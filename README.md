@@ -16,3 +16,12 @@ In this project No Backend is used to embed Power BI report to Angular client.
 
 ### Template
 _In this application I used [ngx-admin](https://akveo.github.io/ngx-admin?utm_campaign=ngx_admin%20-%20home%20-%20ngx_admin%20github%20readme&utm_source=ngx_admin_material&utm_medium=referral&utm_content=github_readme) template_
+
+#### Files I modified in whole  template are,
+* e-commerce.component.ts
+* pbi-api.service.ts
+* proxy.conf.json
+* package.json
+* angular.json
+* DockerFile
+* nginx.conf
